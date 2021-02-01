@@ -5,6 +5,7 @@ Demonstrate your technical abilities by completing the following objectives:
 * Create a React based app that handles the pulling of data from the following API endpoints
   * [Glasgow traffic counter locations](https://gcc.azure-api.net/traffic/locations?format=json)
   * [Glasgow traffic movement data](https://gcc.azure-api.net/traffic/movement?format=json)
+    _Note: This will require an account to be created [Glasgow Open Data](https://gcc.portal.azure-api.net/), and subscribe to their Starter product in order to create an API key that can be added to the [header of the request](https://gcc.portal.azure-api.net/docs/services/55c36a318b3a0306f0009483/operations/5abbcb80a1a3dc273ccf2e9f?)._ 
 * Use the above data to display (at the very least) vehicle flow and location description about each traffic counter site.
 * Copy and update this readme with details of the final solution into your repository.
 * Email us a link to your repository so that we can download, view and run your solution.
